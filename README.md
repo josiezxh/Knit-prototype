@@ -1,2 +1,4 @@
-# Knit-prototype
+# Knit
+## Prototype
+> EECS 690 Arcade Shakeout
  
